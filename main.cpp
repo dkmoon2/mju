@@ -1,1 +1,4 @@
-#include <iostream>
+#include <cstio>
+
+int main() {
+}
